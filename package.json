@@ -15,7 +15,7 @@
     "handlebars"
   ],
   "author": "Andy Marshall",
-  "license": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/andrew-marshall1/burger"
   },
